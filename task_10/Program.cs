@@ -10,7 +10,7 @@ try
     }
     else 
     {
-        Console.WriteLine("You have entered not three-digits number");
+        Console.WriteLine("You have entered not three-digits number ");
     }
 }
     catch
